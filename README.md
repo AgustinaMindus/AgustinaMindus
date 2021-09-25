@@ -3,13 +3,13 @@
 
 <p align = "left"> < img src = "https://komarev.com/ghpvc/?username=agustinamindus&label=Profile%20views&color=0e75b6&style=flat" alt = "agustinamindus" /> </p>
 
-- 🔭 Actualmente estoy trabajando en ** ANDIF * *
+- 🔭 Actualmente estoy trabajando en ** ANDIF y freelance **
 
 - 📫 Cómo comunicarse conmigo **agustina.mindus@gmail.com**
 
 <h3 align = "left"> Conéctese conmigo: </h3>
 <p align = "left">
-<a href = "https: / /linkedin.com/in/agustinamindus "target =" blank "> <img align =" center "src =" https: //raw.githubusercontent.com / rahuldkjain / github-profile-readme-generator / master / src / images / icons / Social / linked-in-alt.svg "alt =" agustinamindus "height =" 30 "width =" 40 "/> </ a >
+<a href = "https : //linkedin.com/in/agustinamindus "target =" blank "> <img align =" center "src =" https: //raw.githubusercontent.com / rahuldkjain / github-profile-readme-generator / master / src / images / icons / Social / linked-in-alt.svg "alt =" agustinamindus "height =" 30 "width =" 40 "/> </ a >
 <a href="https://instagram.com/agusmindus" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg "alt =" agusmindus "height =" 30 "width =" 40 "/> </a>
 <a href =" https://www.behance.net / agustinamindus "target =" blank "> <img align =" center "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance .svg "alt =" agustinamindus "height =" 30 "width =" 40 "/> </a>
 <a href="/agustinamindus" target="blank"> <img align =" center "src =" https: //raw.githubusercontent.com / rahuldkjain / github-profile-readme-generator / master / src / images / icons / Social / rss.svg "alt =" agustinamindus "height =" 30 "width =" 40 "/> </a>
